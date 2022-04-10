@@ -1,1 +1,2 @@
-console.info("hello world");
+var test = "hello world";
+console.info(test);
