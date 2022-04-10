@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Mickey1992/nodejs_sample/issues"
   },
-  "homepage": "https://github.com/Mickey1992/nodejs_sample#readme"
+  "homepage": "https://github.com/Mickey1992/nodejs_sample#readme",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
 }
