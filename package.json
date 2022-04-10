@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/Mickey1992/nodejs_sample#readme",
   "devDependencies": {
+    "@tsconfig/node17": "^1.0.0",
     "typescript": "^4.6.3"
+  },
+  "dependencies": {
+    "@types/node": "^17.0.23"
   }
 }
